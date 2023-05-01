@@ -1,5 +1,5 @@
-# difussion-model-experiments
-Im learning about difussion models, and trying to experiment with different training strategies. I will list the runs down all the followed strategies used.
+# diffusion-model-experiments
+Im learning about diffusion models, and trying to experiment with different training strategies. I will list the runs down all the followed strategies used.
 
 
 |exp no.|changes|result|quantitative|
